@@ -2,7 +2,7 @@ gem 'solidus', '~> 2.8'
 gem 'solidus_auth_devise'
 
 gem_group :development, :test do
-  gem 'rspec-rails'
+  gem 'rspec-rails', '~> 3'
 end
 
 after_bundle do
