@@ -10,5 +10,6 @@ rails new my-app -m https://raw.githubusercontent.com/kevinnio/rails-templates/m
 
 - [Solidus 2.8](https://raw.githubusercontent.com/kevinnio/rails-templates/master/solidus.rb)
 - [Solidus 2.8 + RSpec 3](https://raw.githubusercontent.com/kevinnio/rails-templates/master/solidus+rspec.rb)
+- [RSpec 3](https://raw.githubusercontent.com/kevinnio/rails-templates/master/rspec.rb)
 
 Happy coding!
