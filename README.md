@@ -1,4 +1,4 @@
-### A collection of rails template
+### A collection of rails templates
 
 To use any of these templates, run:
 
